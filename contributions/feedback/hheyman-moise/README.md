@@ -8,7 +8,7 @@ Theodor Moise, moise@kth.se
 Github: [iriediese](https://github.com/iriediese)  
 
 ## Essay to give feedback on ##  
-Feedback given on: [#979](https://github.com/KTH/devops-course/pull/979)  
+Feedback given on: [#1348](https://github.com/KTH/devops-course/pull/1348)  
 
 # Feedback
 ## Overall
